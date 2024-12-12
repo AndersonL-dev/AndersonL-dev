@@ -4,7 +4,7 @@ Anderson Oliveira - Futuro Desenvolvedor de Software
 Estou em transição de carreira para a área de desenvolvimento de software e busco aplicar os conhecimentos que venho adquirindo no curso. Possuo base em lógica de programação, mantenho o aprendizado constante e atualmente participo de alguns projetos em andamento. 
 
 ✨ Formação
-- ** Graduação Gestão Empresarial - Processos Gerenciais**  
+- **Graduação Gestão Empresarial - Processos Gerenciais**  
   Universidade Veiga De Almeida | 2016 - 2020  
 - **Graduação Análise e Desenvolvimento De Sistemas** (Em andamento)  
  Universidade Veiga De Almeida | 2025 - 2027
