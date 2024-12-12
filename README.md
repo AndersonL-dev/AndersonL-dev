@@ -1,16 +1,27 @@
-## Hi there 👋
+Anderson Oliveira - Futuro Desenvolvedor de Software
+
+🌱 Sobre mim
+Estou em transição de carreira para a área de desenvolvimento de software e busco aplicar os conhecimentos que venho adquirindo no curso. Possuo base em lógica de programação, mantenho o aprendizado constante e atualmente participo de alguns projetos em andamento. 
+
+✨ Formação
+- ** Graduação Gestão Empresarial - Processos Gerenciais**  
+  Universidade Veiga De Almeida | 2016 - 2020  
+- **Graduação Análise e Desenvolvimento De Sistemas** (Em andamento)  
+ Universidade Veiga De Almeida | 2025 - 2027
+
+✨ Cursos Realizados
+- **Programador Full Stack 360h** | Senac Rio | 2024 - 2025 (Em andamento) 
+- **Formação Executiva em Gerenciamento por Processos** | Fundação Getulio Vargas | 2021
+- **Gestão de Projetos** | Escola Conquer | 2021
 
 
-**AndersonL-dev/AndersonL-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Habilidades
+- **Frontend:** HTML, CSS, JavaScript
+- **Outras:** Git, GitHub, SCRUM, Metodologias Ágeis.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 Contato
+- E-mail: andersonoliveira.dig@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/anderson-oliveira-anjos/)
+
 
